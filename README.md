@@ -1,2 +1,2 @@
 # Mini-projects
-This is a repo which contains all my mini projects
+This is a repo which contains all my mini projects. The noetebooks are self explanatory
